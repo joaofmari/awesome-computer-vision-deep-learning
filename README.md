@@ -112,7 +112,7 @@
 * https://pytorch.org/tutorials/
 
 ### PyTorch. Training a Classifier
-https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+* https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 ### FINETUNING TORCHVISION MODELS
 * Nathan Inkawhich
@@ -124,11 +124,11 @@ https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 * https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 ### DATASETS & DATALOADERS
-https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+* https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 
 ### WRITING CUSTOM DATASETS, DATALOADERS AND TRANSFORMS
 * Sasank Chilamkurthy
-https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
+* https://pytorch.org/tutorials/beginner/data_loading_tutorial.html
 
 ### OPTIMIZING MODEL PARAMETERS
 * https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html
