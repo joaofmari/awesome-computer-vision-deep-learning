@@ -10,6 +10,7 @@
 * It is not intended to be a comprehensive list.
 * Most resources I have accessed at some level.
 
+*Last update: 2023/10/06*
 
 ## Books
 
@@ -59,8 +60,8 @@
 * https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
 * http://introtodeeplearning.com
 
-### PyTorch (Facebook). Udacity.</li>
-https://br.udacity.com/course/deep-learning-pytorch--ud188
+### PyTorch (Facebook). Udacity
+* https://br.udacity.com/course/deep-learning-pytorch--ud188
 
 ### TensorFlow (Google). Udacity
 * https://br.udacity.com/course/deep-learning--ud730
@@ -77,12 +78,33 @@ https://br.udacity.com/course/deep-learning-pytorch--ud188
 
 ## Reviews and surveys
 
+### Deep learning
+* LeCun Y.; Bengio, Y.; Hinton, G.
+* Nature, 2015
+* https://doi.org/10.1038/nature14539
+
+
 ### Como funciona o Deep Learning
 * Ponti, M.A.; Costa, G.B.P.
 * https://arxiv.org/abs/1806.07908
 
 ### Deep Convolutional Neural Networks for Image Classification: A Comprehensive Review
 * https://www.mitpressjournals.org/doi/full/10.1162/neco_a_00990
+
+### Deep learning for visual understanding: A review
+* Guo et al.
+* Neurocomputing, 2015
+* https://doi.org/10.1016/j.neucom.2015.09.116
+
+### Visualizing and Understanding Convolutional Networks 
+* Zeiler, M.D.; Fergus, R.
+* ECCV, 2014
+* https://doi.org/10.1007/978-3-319-10590-1_53
+
+### A State-of-the-Art Survey on Deep Learning Theory and Architectures
+* Alom, Z. et al.
+* Electronics, 2019
+* https://doi.org/10.3390/electronics8030292
 
 ## Tutorials 
 
@@ -92,12 +114,13 @@ https://br.udacity.com/course/deep-learning-pytorch--ud188
 ### PyTorch. Training a Classifier
 https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
-### FINETUNING TORCHVISION MODELS.
+### FINETUNING TORCHVISION MODELS
 * Nathan Inkawhich
 * (Broken link) https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html
 * (Working link) https://colab.research.google.com/github/dlmacedo/starter-academic/blob/master/content/courses/deeplearning/notebooks/pytorch/finetuning_torchvision_models_tutorial.ipynb#scrollTo=kfl9S6PnhsuC
 
-### Sasank Chilamkurthy. TRANSFER LEARNING FOR COMPUTER VISION TUTORIAL.
+### TRANSFER LEARNING FOR COMPUTER VISION TUTORIAL
+* Sasank Chilamkurthy
 * https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
 
 ### DATASETS & DATALOADERS
