@@ -111,7 +111,7 @@
 ### PyTorch Tutorials
 * https://pytorch.org/tutorials/
 
-### PyTorch. Training a Classifier
+### TRAINING A CLASSIFIER
 * https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 
 ### FINETUNING TORCHVISION MODELS
