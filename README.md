@@ -10,7 +10,7 @@
 * It is not intended to be a comprehensive list.
 * Most resources I have accessed at some level.
 
-*Last update: 2023/10/06*
+*Last update: 2023/10/12*
 
 ## Books
 
@@ -25,6 +25,16 @@
 ### Dive into Deep Learning
 * Zhang, A.; Lipton, Z.C.; Li, M.; Smola, Alex J. et al.
 * https://d2l.ai/
+
+### THE LITTLE BOOK OF DEEP LEARNING
+* François Fleuret
+* https://fleuret.org/francois/lbdl.html
+
+
+### Understanding Deep Learning
+* Simon J.D. Prince
+* To be published by MIT Press, 2023
+* https://udlbook.github.io/udlbook/
 
 
 ## Courses and minicourses
@@ -105,6 +115,11 @@
 * Alom, Z. et al.
 * Electronics, 2019
 * https://doi.org/10.3390/electronics8030292
+
+### A Comprehensive Survey of Image Augmentation Techniques for Deep Learning
+* Mingle Xu, Sook Yoon, Alvaro Fuentes, Dong Sun Park
+* Pattern Recognition, 2023
+* https://www.sciencedirect.com/science/article/pii/S0031320323000481
 
 ## Tutorials 
 
