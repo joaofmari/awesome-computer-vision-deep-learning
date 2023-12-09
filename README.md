@@ -10,7 +10,7 @@
 * It is not intended to be a comprehensive list.
 * Most resources I have accessed at some level.
 
-*Last update: 2023/10/12*
+*Last update: 2023/12/08*
 
 ## Books
 
@@ -157,6 +157,16 @@
 ### Microsoft. Train your image classifier model with PyTorch.
 * https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model
 
+## Datasets
+
+### Kaggle
+* https://www.kaggle.com/
+
+### roboflow
+* https://universe.roboflow.com/
+
+### Mendeley Data
+* https://data.mendeley.com/
 
 ## Libraries
 
