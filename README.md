@@ -10,7 +10,7 @@
 * It is not intended to be a comprehensive list.
 * Most resources I have accessed at some level.
 
-*Last update: 2023/12/08*
+*Last update: 2024/07/18*
 
 ## Books
 
@@ -33,8 +33,14 @@
 
 ### Understanding Deep Learning
 * Simon J.D. Prince
-* To be published by MIT Press, 2023
+* MIT Press, 2023
 * https://udlbook.github.io/udlbook/
+
+### Deep Learning: Foundations and Concepts :fire:New!:fire:
+* Christopher M. Bishop and Hugh Bishop
+* Springer, 2023
+* https://link.springer.com/book/10.1007/978-3-031-45468-4
+* https://issuu.com/cmb321/docs/deep_learning_ebook
 
 
 ## Courses and minicourses
@@ -51,6 +57,11 @@
 ### Material para o minicurso Deep Learning
 * Ponti, M.A. 
 * https://github.com/maponti/deeplearning_intro_datascience
+
+### Deep Learning Course :fire:New!:fire:
+* François Fleure
+* University of Geneva, Switzerland
+* https://fleuret.org/dlc/
 
 ### Yann LeCun’s Deep Learning Course at CDS
 * LeCun, Y.; Canziani, A.
@@ -85,6 +96,11 @@
 * Mari, J.F.
 * In Brazilian Portuguese
 * https://github.com/joaofmari/SIN392_Introducao-ao-processamento-digital-de-imagens_2022-1
+
+### UVA DEEP LEARNING COURSE :fire:New!:fire:
+* MSc in Artificial Intelligence for the University of Amsterdam.
+* https://uvadlc.github.io/
+* https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
 
 ## Reviews and surveys
 
@@ -156,6 +172,9 @@
 
 ### Microsoft. Train your image classifier model with PyTorch.
 * https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model
+
+### Onkar Mishra. Stable Diffusion Explained :fire:New!:fire:
+* https://medium.com/@onkarmishra/stable-diffusion-explained-1f101284484d
 
 ## Datasets
 
